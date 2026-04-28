@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1681738856 source:d:\code blocks\proyectos\ejercicio5\main.cpp
+	<iostream>
+
+1681738856 source:d:\code blocks\proyectos\ejercicio5\funciones.cpp
+	<stdio.h>
+
