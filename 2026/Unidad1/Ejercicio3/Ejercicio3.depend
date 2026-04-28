@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1584205420 source:d:\pulga\escritorio\1 unlam\topicos de progamacion\proyectos\ejercicio3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1584205420 source:d:\pulga\escritorio\1 unlam\topicos\proyectos\ejercicio3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1776443715 source:d:\pulga\escritorio\unlam\topicos\proyectos\ejercicio3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1776450160 source:d:\pulga\escritorio\unlam\topicos\proyectos\ejercicio3\funciones.c
+	<stdio.h>
+	"funciones.h"
+
+1776444028 d:\pulga\escritorio\unlam\topicos\proyectos\ejercicio3\funciones.h
+

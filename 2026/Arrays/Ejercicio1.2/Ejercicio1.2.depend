@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1776710401 source:d:\codeblocks\2026\arrays\ejercicio1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1776709659 d:\codeblocks\2026\arrays\ejercicio1.2\funciones.h
+
+1776709659 source:d:\codeblocks\2026\arrays\ejercicio1.2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+

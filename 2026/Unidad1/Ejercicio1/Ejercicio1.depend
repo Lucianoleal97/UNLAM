@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1776101430 source:d:\pulga\documents\proyectos codeblocks\ejercicio1\main.c
+	<stdio.h>
+
+1776104347 source:d:\pulga\documents\proyectos\ejercicio1\main.c
+	<stdio.h>
+	"Funcion.c"
+
+1776103923 source:d:\pulga\documents\proyectos\ejercicio1\funcion.c
+	<stdio.h>
+
+1776104453 d:\pulga\documents\proyectos\ejercicio1\funcion.c
+	<stdio.h>
+
+1776104662 source:d:\codeblocks\ejercicio1\funcion.c
+	<stdio.h>
+	"Funcion.h"
+
+1776187897 d:\codeblocks\ejercicio1\funcion.h
+
+1776104662 source:d:\codeblocks\ejercicio1\main.c
+	<stdio.h>
+	"Funcion.h"
+
