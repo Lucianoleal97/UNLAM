@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1776455974 source:d:\pulga\escritorio\unlam\topicos\2026\arrays\ejercicio1.1\funciones.c
+	<stdio.h>
+	"Funciones.h"
+
+1776455968 d:\pulga\escritorio\unlam\topicos\2026\arrays\ejercicio1.1\funciones.h
+
+1776456049 source:d:\pulga\escritorio\unlam\topicos\2026\arrays\ejercicio1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1776456094 source:e:\pulga\proyectos\2026\arrays\ejercicio1.1\funciones.c
+	<stdio.h>
+	"Funciones.h"
+
+1776456087 e:\pulga\proyectos\2026\arrays\ejercicio1.1\funciones.h
+
+1776456049 source:e:\pulga\proyectos\2026\arrays\ejercicio1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+
