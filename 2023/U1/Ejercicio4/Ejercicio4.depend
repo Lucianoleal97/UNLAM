@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1680536451 source:d:\code blocks\proyectos\ejercicio4\funciones.cpp
-
-1681321370 source:d:\code blocks\proyectos\ejercicio4\main.cpp
-	<stdio.h>
-	<stdlib.h>
-	<cmath>
-
