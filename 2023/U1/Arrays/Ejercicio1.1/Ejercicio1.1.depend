@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1682007161 source:d:\code blocks\proyectos\arrays\ejercicio1.1\funciones.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1682005566 source:d:\code blocks\proyectos\arrays\ejercicio1.1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1682005516 d:\code blocks\proyectos\arrays\ejercicio1.1\funciones.h
+

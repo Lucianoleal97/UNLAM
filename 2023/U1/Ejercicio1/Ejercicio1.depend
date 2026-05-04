@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1679928216 source:d:\code blocks\proyectos\ejercicio1\funciones.cpp
+	"cabezera.h"
+
+1679937238 source:d:\code blocks\proyectos\ejercicio1\main.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	"cabezera.h"
+
+1679926170 d:\code blocks\proyectos\ejercicio1\cabezera.h
+
